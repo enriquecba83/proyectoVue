@@ -1,0 +1,19 @@
+.titulo {
+    color: red;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.botones {
+    display: block;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.contador {
+    margin: 5px;
+    text-align: center;
+    font-size: 40px;
+    color: greenyellow;
+}
